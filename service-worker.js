@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ArkFitnessCalculator--Project-3/precache-manifest.30c25b7064eb79d41fadeeaaef201670.js"
+  "/ArkFitnessCalculator--Project-3/precache-manifest.2eebe796bb8d47d93e7f78e393d58c17.js"
 );
 
 self.addEventListener('message', (event) => {

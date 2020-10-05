@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ArkFitnessCalculator--Project-3/static/css/main.b820e73b.chunk.css",
+    "main.css": "/ArkFitnessCalculator--Project-3/static/css/main.09c2b654.chunk.css",
     "main.js": "/ArkFitnessCalculator--Project-3/static/js/main.1d9fb336.chunk.js",
     "main.js.map": "/ArkFitnessCalculator--Project-3/static/js/main.1d9fb336.chunk.js.map",
     "runtime-main.js": "/ArkFitnessCalculator--Project-3/static/js/runtime-main.6dcf53d6.js",
@@ -8,15 +8,15 @@
     "static/js/2.be02f16b.chunk.js": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js",
     "static/js/2.be02f16b.chunk.js.map": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js.map",
     "index.html": "/ArkFitnessCalculator--Project-3/index.html",
-    "precache-manifest.30c25b7064eb79d41fadeeaaef201670.js": "/ArkFitnessCalculator--Project-3/precache-manifest.30c25b7064eb79d41fadeeaaef201670.js",
+    "precache-manifest.2eebe796bb8d47d93e7f78e393d58c17.js": "/ArkFitnessCalculator--Project-3/precache-manifest.2eebe796bb8d47d93e7f78e393d58c17.js",
     "service-worker.js": "/ArkFitnessCalculator--Project-3/service-worker.js",
-    "static/css/main.b820e73b.chunk.css.map": "/ArkFitnessCalculator--Project-3/static/css/main.b820e73b.chunk.css.map",
+    "static/css/main.09c2b654.chunk.css.map": "/ArkFitnessCalculator--Project-3/static/css/main.09c2b654.chunk.css.map",
     "static/js/2.be02f16b.chunk.js.LICENSE.txt": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dcf53d6.js",
     "static/js/2.be02f16b.chunk.js",
-    "static/css/main.b820e73b.chunk.css",
+    "static/css/main.09c2b654.chunk.css",
     "static/js/main.1d9fb336.chunk.js"
   ]
 }
