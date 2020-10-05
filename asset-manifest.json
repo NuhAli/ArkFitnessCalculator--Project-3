@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/ArkFitnessCalculator--Project-3/static/css/main.8ada424c.chunk.css",
-    "main.js": "/ArkFitnessCalculator--Project-3/static/js/main.230f36d0.chunk.js",
-    "main.js.map": "/ArkFitnessCalculator--Project-3/static/js/main.230f36d0.chunk.js.map",
+    "main.css": "/ArkFitnessCalculator--Project-3/static/css/main.b820e73b.chunk.css",
+    "main.js": "/ArkFitnessCalculator--Project-3/static/js/main.1d9fb336.chunk.js",
+    "main.js.map": "/ArkFitnessCalculator--Project-3/static/js/main.1d9fb336.chunk.js.map",
     "runtime-main.js": "/ArkFitnessCalculator--Project-3/static/js/runtime-main.6dcf53d6.js",
     "runtime-main.js.map": "/ArkFitnessCalculator--Project-3/static/js/runtime-main.6dcf53d6.js.map",
     "static/js/2.be02f16b.chunk.js": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js",
     "static/js/2.be02f16b.chunk.js.map": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js.map",
     "index.html": "/ArkFitnessCalculator--Project-3/index.html",
-    "precache-manifest.43600902e9db41c8b2062f064a03890b.js": "/ArkFitnessCalculator--Project-3/precache-manifest.43600902e9db41c8b2062f064a03890b.js",
+    "precache-manifest.30c25b7064eb79d41fadeeaaef201670.js": "/ArkFitnessCalculator--Project-3/precache-manifest.30c25b7064eb79d41fadeeaaef201670.js",
     "service-worker.js": "/ArkFitnessCalculator--Project-3/service-worker.js",
-    "static/css/main.8ada424c.chunk.css.map": "/ArkFitnessCalculator--Project-3/static/css/main.8ada424c.chunk.css.map",
-    "static/js/2.be02f16b.chunk.js.LICENSE.txt": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/ArkFitnessCalculator--Project-3/static/media/arkveg.616e185d.jpg"
+    "static/css/main.b820e73b.chunk.css.map": "/ArkFitnessCalculator--Project-3/static/css/main.b820e73b.chunk.css.map",
+    "static/js/2.be02f16b.chunk.js.LICENSE.txt": "/ArkFitnessCalculator--Project-3/static/js/2.be02f16b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6dcf53d6.js",
     "static/js/2.be02f16b.chunk.js",
-    "static/css/main.8ada424c.chunk.css",
-    "static/js/main.230f36d0.chunk.js"
+    "static/css/main.b820e73b.chunk.css",
+    "static/js/main.1d9fb336.chunk.js"
   ]
 }
